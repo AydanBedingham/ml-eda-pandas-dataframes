@@ -1,6 +1,8 @@
 
 # Pandas - DataFrames
 
+Jupyter Notebook used to perform Exploratory Data Analysis (EDA).
+
 - Perform basic Exploratory Data Analysis (EDA) on the University Admissions Dataset.
 - Using the "university_admision.csv" included in the course package, write a python script to perform the following tasks:
     - Import the "university_admission.csv" file using Pandas

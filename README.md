@@ -1,5 +1,5 @@
 
-# Pandas - DataFrames
+# Pandas Basics - Dataframes
 
 Jupyter Notebook used to perform Exploratory Data Analysis (EDA).
 
